@@ -88,4 +88,4 @@ Do note that after any database change you backup the database again
 - Special Contributions: **Marion Ngayi & The Senjes Cuisine Team**
 - Product Research & Design: **Paul Mbingu**
 - Frontend Engineers: **Paul Mbingu & Felix Ouma**
-- Backend Engineers: **Samuel Maingi & Paul Mbingu**
+- Backend Engineers: **Samuel Maingi & Paul Mbingu & Moses Wanjiku**
